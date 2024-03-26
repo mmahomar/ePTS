@@ -1,4 +1,4 @@
-﻿# Enhanced Performance Tracking System (ePTS)
+﻿# Enhanced Performance Tracking System (ePTS) for the Zambia Ministry of Education
 
 The Enhanced Performance Tracking System (ePTS) is a comprehensive, user-friendly web application designed to empower schools with efficient collection, management, and analysis of aggregate data on standardized assessments for grades 1 through 4.
 
